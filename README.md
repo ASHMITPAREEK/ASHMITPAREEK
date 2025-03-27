@@ -60,9 +60,9 @@ I'm a versatile data professional with experience across machine learning, LLM r
 
 ## 🤝 Let's Connect
 
-- 📫 **Email:** [ashmit.pareek@example.com](mailto:ashmit.pareek@example.com)  
+- 📫 **Email:** [ashmitkpareek@gmail.com](mailto:ashmitkpareek@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/ashmitpareek](https://linkedin.com/in/ashmitpareek)  
-- 📄 **Resume:** [AshmitKPareek.pdf](AshmitKPareek.pdf)
+
 
 ---
 
